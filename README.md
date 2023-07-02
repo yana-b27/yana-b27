@@ -1,0 +1,1 @@
+My name is Yana, and I am a beginner in data science. I became interested in this area recently, therefore I have few projects here. I learn new things about data science throught books and bootcamps, hope to gain new experience with data science projects!
