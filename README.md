@@ -1,1 +1,1 @@
-My name is Yana, and I am a beginner in data science. I became interested in this area recently, therefore I have few projects here. I learn new things about data science throught books and bootcamps, hope to gain new experience with data science projects!
+My name is Yana, I am a 3rd year student of geography faculty. I study geodata analysis, machine learning, computer vision, time series analysis in my university. Now I am writing my course work about power line recognition using computer vision and machine learning.
