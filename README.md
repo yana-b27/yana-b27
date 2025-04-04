@@ -1,1 +1,1 @@
-My name is Yana, I am a 4th year student of geography faculty. I study geodata analysis, machine learning, computer vision, time series analysis in my university. Now I am writing my course work about power line recognition using computer vision and machine learning.
+
